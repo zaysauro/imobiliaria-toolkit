@@ -1,0 +1,9 @@
+{
+  "name": "amparo-toolkit",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node scripts/tests/run-finance-tests.mjs"
+  }
+}
